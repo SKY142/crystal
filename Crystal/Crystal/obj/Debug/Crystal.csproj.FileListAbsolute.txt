@@ -1,0 +1,51 @@
+c:\users\sky\documents\visual studio 2012\Projects\Crystal\Crystal\bin\Debug\Crystal.exe.config
+C:\Users\SKY\documents\visual studio 2012\Projects\Crystal\Crystal\bin\Debug\Crystal.exe
+C:\Users\SKY\documents\visual studio 2012\Projects\Crystal\Crystal\bin\Debug\Crystal.pdb
+C:\Users\SKY\documents\visual studio 2012\Projects\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+C:\Users\SKY\documents\visual studio 2012\Projects\Crystal\Crystal\obj\Debug\Crystal.exe
+C:\Users\SKY\documents\visual studio 2012\Projects\Crystal\Crystal\obj\Debug\Crystal.pdb
+J:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+J:\Crystal\Crystal\obj\Debug\Crystal.exe
+J:\Crystal\Crystal\obj\Debug\Crystal.pdb
+J:\Crystal\Crystal\bin\Debug\Crystal.exe
+J:\Crystal\Crystal\bin\Debug\Crystal.pdb
+J:\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+G:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+G:\Crystal\Crystal\obj\Debug\Crystal.exe
+G:\Crystal\Crystal\obj\Debug\Crystal.pdb
+G:\Crystal\Crystal\bin\Debug\Crystal.exe
+G:\Crystal\Crystal\bin\Debug\Crystal.pdb
+G:\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\bin\Debug\Crystal.exe.config
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\obj\Debug\Crystal.exe
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\obj\Debug\Crystal.pdb
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\bin\Debug\Crystal.exe
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\bin\Debug\Crystal.pdb
+C:\Users\SKY\Desktop\New folder (2)\New folder\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+K:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+K:\Crystal\Crystal\obj\Debug\Crystal.exe
+K:\Crystal\Crystal\obj\Debug\Crystal.pdb
+K:\Crystal\Crystal\bin\Debug\Crystal.exe
+K:\Crystal\Crystal\bin\Debug\Crystal.pdb
+K:\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+C:\Users\SKY\Desktop\Crystal\Crystal\bin\Debug\Crystal.exe.config
+C:\Users\SKY\Desktop\Crystal\Crystal\obj\Debug\Crystal.exe
+C:\Users\SKY\Desktop\Crystal\Crystal\obj\Debug\Crystal.pdb
+C:\Users\SKY\Desktop\Crystal\Crystal\bin\Debug\Crystal.exe
+C:\Users\SKY\Desktop\Crystal\Crystal\bin\Debug\Crystal.pdb
+C:\Users\SKY\Desktop\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+L:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+L:\Crystal\Crystal\obj\Debug\Crystal.exe
+L:\Crystal\Crystal\obj\Debug\Crystal.pdb
+H:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+H:\Crystal\Crystal\obj\Debug\Crystal.exe
+H:\Crystal\Crystal\obj\Debug\Crystal.pdb
+H:\Crystal\Crystal\bin\Debug\Crystal.exe
+H:\Crystal\Crystal\bin\Debug\Crystal.pdb
+H:\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+F:\Crystal\Crystal\bin\Debug\Crystal.exe.config
+F:\Crystal\Crystal\bin\Debug\Crystal.exe
+F:\Crystal\Crystal\bin\Debug\Crystal.pdb
+F:\Crystal\Crystal\obj\Debug\Crystal.csprojResolveAssemblyReference.cache
+F:\Crystal\Crystal\obj\Debug\Crystal.exe
+F:\Crystal\Crystal\obj\Debug\Crystal.pdb
